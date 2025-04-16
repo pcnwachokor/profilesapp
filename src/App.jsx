@@ -44,6 +44,7 @@ export default function App() {
       margin="0 auto"
     >
       <Heading level={1}>My Profile</Heading>
+      <Heading level={2}>Created by Precious Nwachokor</Heading>
 
       <Divider />
 
